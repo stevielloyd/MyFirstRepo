@@ -1,0 +1,29 @@
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.blue {
+    
+	
+	width:80px;height:80px;display:none;background-color:blue;
+	 text-align:center;
+}
+
+#mainDiv {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+body{
+	background-color:red;
+}
+ 
+ #picDiv {
+    background-color:grey;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
